@@ -2,8 +2,7 @@
 
 
 - 🔭 Apaixonado por programação
-- 🌱 Estudante de Engenharia de Software 2/8
-- 😄 Pronouns: ele/dele
+- 🌱 Estudante de Engenharia de Software
 <div align="center">
   <a href="https://github.com/JosiasDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosiasDev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
