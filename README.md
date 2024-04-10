@@ -3,7 +3,7 @@
 
 - 🔭 Apaixonado por programação
 - 🌱 Estudante de Engenharia de Software
-- 📫 contacte-me no email: josiasmartins098@gmail.com
+- 📫 contacte-me no email: francisco.batista67@alu.ufc.br
 <div align="center">
   <a href="https://github.com/JosiasDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosiasDev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
