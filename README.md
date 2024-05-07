@@ -1,6 +1,5 @@
 # Olá, sou o Josias Batista
-- 🔭 Apaixonado por programação
-- 🌱 Estudante de Engenharia de Software
+- Sou novo na área de programação e interessado na área de desenvolvedor back-end
 
 # Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-batista/)
