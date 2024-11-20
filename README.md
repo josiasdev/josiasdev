@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Olá,Sou Josias Batista 👨‍💻✝️
-desenvolvedor de software back-end e estudante de Engenharia de Software na [Universidade Federal do Ceará](https://www.quixada.ufc.br/).
+Desenvolvedor de Software Back-End e estudante de Engenharia de Software na [Universidade Federal do Ceará](https://www.quixada.ufc.br/).
 Meu propósito como cristão é usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e contribuir para projetos que impactem positivamente o mundo.
 
 ## 🌟 O que me motiva:
