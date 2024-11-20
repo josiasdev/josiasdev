@@ -36,9 +36,9 @@ Meu propósito como cristão é usar a tecnologia como uma ferramenta para trans
 
 
 ## Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josiasdev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josiasdev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
-![GitHub Streak](https://streak-stats.demolab.com/?user=josiasdev&theme=bear&background=000&border=30A3DC&dates=FFF&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasdev&show_icons=true&theme=transparent&locale=pt-br)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josiasdev&layout=compact&theme=transparent&locale=pt-br)
+[![GitHub Streak](https://streak-stats.demolab.com?user=josiasdev&theme=transparent&locale=pt_BR)](https://git.io/streak-stats)
 
 # Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-batista/)
