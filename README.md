@@ -1,10 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
-# Olá,Sou Josias Batista 👨‍💻✝️
-Desenvolvedor Back-End e estudante de Engenharia de Software na [Universidade Federal do Ceará](https://www.quixada.ufc.br/).
-Meu propósito como cristão é usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e contribuir para projetos que impactem positivamente o mundo.
-
-## Seja bem-vindo! Que Deus ilumine sua jornada e que juntos possamos usar a tecnologia para fazer a diferença no mundo! ✝️✨
+# Olá, Sou o Josias Batista 👨‍💻✝️
+Desenvolvedor Back-End com especialização em Node.js. Sou um cristão comprometido com o propósito de usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e impactar positivamente o mundo. Minha paixão é desenvolver soluções inovadoras e eficazes que unam propósito e excelência técnica.
 
 ## Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
