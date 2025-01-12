@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Olá, Sou o Josias Batista 👨‍💻✝️
-Desenvolvedor Back-End com especialização em **JavaScript, TypeScript, Node.js e Nest.js**. Sou um cristão comprometido com o propósito de usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e impactar positivamente o mundo. Minha paixão é desenvolver soluções inovadoras e eficazes que unam propósito e excelência técnica.
+Desenvolvedor Back-End com especialização em **Node.js**. Sou um cristão comprometido com o propósito de usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e impactar positivamente o mundo. Minha paixão é desenvolver soluções inovadoras e eficazes que unam propósito e excelência técnica.
 
 ## Tecnologias
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
