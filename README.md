@@ -3,7 +3,11 @@
 # Olá, Sou o Josias Batista 👨‍💻✝️
 Desenvolvedor Back-End com especialização em **Node.js**. Sou um cristão comprometido com o propósito de usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e impactar positivamente o mundo. Minha paixão é desenvolver soluções inovadoras e eficazes que unam propósito e excelência técnica.
 
-## Tecnologias
+### 🎓 Formação Acadêmica: 
+#### 💻  Técnico em Informática (Concluido)
+#### 💻  Bacharelado em Engenharia de Software (Cursando)
+
+### ⚡ Principais Habilidades e Conhecimentos:
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
@@ -21,6 +25,9 @@ Desenvolvedor Back-End com especialização em **Node.js**. Sou um cristão comp
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasdev&show_icons=true&theme=transparent&locale=pt-br)
