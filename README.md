@@ -1,10 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Olá, Sou o Josias Batista 👨‍💻✝️
-Desenvolvedor FullStack React.js e Node.js. Sou um cristão comprometido com o propósito de
-usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e impactar
-positivamente o mundo. Minha paixão é desenvolver soluções inovadoras e eficazes que unam
-propósito e excelência técnica.
+Desenvolvedor BackEnd Node.js. Sou um cristão comprometido com o propósito de usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e impactar positivamente o mundo. Minha paixão é desenvolver soluções inovadoras e eficazes que unam propósito e excelência técnica.
 ### 🎓 Formação Acadêmica: 
 #### 💻  Técnico em Informática (Concluido)
 #### 💻  Bacharelado em Engenharia de Software (Cursando)
