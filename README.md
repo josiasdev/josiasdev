@@ -1,13 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Olá, Sou o Josias Batista 👨‍💻✝️
-Desenvolvedor Back-End com especialização em **Node.js**. Sou um cristão comprometido com o propósito de usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e impactar positivamente o mundo. Minha paixão é desenvolver soluções inovadoras e eficazes que unam propósito e excelência técnica.
-
+Desenvolvedor FullStack React.js e Node.js. Sou um cristão comprometido com o propósito de
+usar a tecnologia como uma ferramenta para transformar vidas, glorificar a Deus e impactar
+positivamente o mundo. Minha paixão é desenvolver soluções inovadoras e eficazes que unam
+propósito e excelência técnica.
 ### 🎓 Formação Acadêmica: 
 #### 💻  Técnico em Informática (Concluido)
 #### 💻  Bacharelado em Engenharia de Software (Cursando)
 
 ### ⚡ Principais Habilidades e Conhecimentos:
+[![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
