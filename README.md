@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Olá, Sou o Josias Batista 👨‍💻✝️
-Desenvolvedor BackEnd Node.js, express.js e Python com FastAPI.
+Desenvolvedor Back-End | Node.js, Express.js, Python(FastAPI) 
+Programador iniciante com experiência em desenvolvimento back-end, focado em projetos pessoais e aprimoramento contínuo na área acadêmica. Possui conhecimento em Node.js e Express.js para criação de APIs eficientes, além de experiência com Python e FastAPI para desenvolvimento de soluções escaláveis. Busca oportunidades para aplicar e expandir suas habilidades em ambientes desafiadores e inovadores. 
 ### 🎓 Formação Acadêmica: 
 #### 💻  Técnico em Informática (Concluido)
 #### 💻  Bacharelado em Engenharia de Software (Cursando)
