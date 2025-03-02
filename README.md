@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Olá, Sou o Josias Batista 👨‍💻
-Estudante de Tecnologia | Foco em Desenvolvimento Back-end
+Estudante de Tecnologia | Foco em Desenvolvimento Back-end <br>
 Sou um estudante de tecnologia apaixonado por desenvolvimento back-end, em constante busca por aprimoramento técnico e desafios que impulsionem meu crescimento profissional. Meu objetivo é contribuir para a criação de soluções inovadoras, escaláveis e de alta performance, alinhadas às demandas do mercado atual. Com uma base sólida em lógica de programação e boas práticas de desenvolvimento, estou sempre explorando novas tecnologias e metodologias para expandir meu conhecimento e entregar resultados de excelência.
 ### 🎓 Formação Acadêmica: 
 #### 💻  Técnico em Informática (Concluido)
