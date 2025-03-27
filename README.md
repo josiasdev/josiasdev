@@ -1,8 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Olá, Sou o Josias Batista 👨‍💻
-Desenvolvedor BackEnd | Java | Python | Node.js | PostgreSQL | Docker <br>
-Desenvolvedor com experiência em desenvolvimento back-end, focado em projetos pessoais e aprimoramento contínuo na área acadêmica. Possui conhecimento em Node.js, Express.js e Java para criação de APIs eficientes, além de experiência com Python e FastAPI para desenvolvimento de soluções escaláveis. Busca oportunidades para aplicar e expandir suas habilidades em ambientes desafiadores e inovadores.
+Junior BackEnd Developer | Java | SpringBoot | Python | Node.js | PostgreSQL | Docker <br>
+Desenvolvedor com experiência em desenvolvimento backEnd, focado em projetos pessoais e aprimoramento contínuo. Possuo conhecimento em Node.js, Express.js e Java com SpringBoot para criação de API Rest e API RestFul eficientes, além de experiência com Python e FastAPI para desenvolvimento de soluções escaláveis. 
+Meu objetivo é contribuir para a criação de soluções inovadoras, escaláveis e de alta performance, alinhando às demandas do mercado atual. Com uma base sólida em lógica de programação e boas práticas de desenvolvimento, estou sempre explorando novas tecnologias e metodologias para expandir meu conhecimento e entregar resultados de excelência. 
 ### 🎓 Formação Acadêmica: 
 #### 💻  Técnico em Informática (Concluido)
 #### 💻  Bacharelado em Engenharia de Software (Cursando)
