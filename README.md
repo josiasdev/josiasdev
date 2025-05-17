@@ -3,6 +3,24 @@
 # Olá, Sou o Josias Batista 👨‍💻
 Desenvolvedor BackEnd, possuo experiência em projetos pessoais utilizando Java, Python, Node.js, Express.js e FastAPI para APIs Rest/RestFul. Domínio de bancos de dados como PostgreSQL, MySQL, MongoDB e SQLite, além de experiência com Docker para conteinerização. Utilização de Git para controle de versão e aplico boas práticas de desenvolvimento para criar soluções escaláveis e de alta performance. Busco por desafios que me permitam aprender novas tecnologias e quero contribuir com projetos inovadores.
 
+## 🏆 Conquistas de Hackathon
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/heatherfinance/xrp/blob/6b815984be8a8f8643a37183af01e8483239ff6c/Logo/Logo.svg" alt=" logo Heather AI" width="250"/>
+        <br/>
+        <b>3º lugar XRPL Hackathon 2024</b>
+        <br/>
+        <a href="https://github.com/heatherfinance/xrp">Ver Projeto</a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
 ### 🎓 Formação Acadêmica: 
 #### 💻  Técnico em Informática (Concluido)
 #### 💻  Bacharelado em Engenharia de Software (Cursando)
