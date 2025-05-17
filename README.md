@@ -1,33 +1,36 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
-# Olá, Sou o Josias Batista 👨‍💻
-Desenvolvedor BackEnd, possuo experiência em projetos pessoais utilizando Java, Python, Node.js, Express.js e FastAPI para APIs Rest/RestFul. Domínio de bancos de dados como PostgreSQL, MySQL, MongoDB e SQLite, além de experiência com Docker para conteinerização. Utilização de Git para controle de versão e aplico boas práticas de desenvolvimento para criar soluções escaláveis e de alta performance. Busco por desafios que me permitam aprender novas tecnologias e quero contribuir com projetos inovadores.
+# Hello, I'm Josias Batista 👨‍💻
+Back-End Developer with experience in personal projects using Java, Python, Node.js, Express.js, and FastAPI to build Rest/RestFul APIs. Skilled in databases such as PostgreSQL, MySQL, MongoDB, and SQLite, with experience in Docker for containerization. I use Git for version control and follow best development practices to build scalable and high-performance solutions. I'm looking for challenges that allow me to learn new technologies and contribute to innovative projects.
 
-## 🏆 Conquistas de Hackathon
+## 🏆 Hackathon Achievements
 
 <p align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/heatherfinance/xrp/blob/6b815984be8a8f8643a37183af01e8483239ff6c/Logo/Logo.svg" alt=" logo Heather AI" width="250"/>
+        <img src="https://github.com/heatherfinance/xrp/blob/6b815984be8a8f8643a37183af01e8483239ff6c/Logo/Logo.svg" alt="Heather AI logo" width="250"/>
         <br/>
-        <b>3º lugar XRPL Hackathon 2024</b>
+        <b>3rd Place - XRPL Hackathon 2024</b>
         <br/>
-        <a href="https://github.com/heatherfinance/xrp">Ver Projeto</a>
+        <a href="https://github.com/heatherfinance/xrp">View Project</a>
       </td>
     </tr>
   </table>
 </p>
 
+## 🗣️ Languages
 
+- 🇧🇷 Brazilian Portuguese (Native)
+- 🇺🇸 English (B1 Intermediate)
 
-### 🎓 Formação Acadêmica: 
-#### 💻  Técnico em Informática (Concluido)
-#### 💻  Bacharelado em Engenharia de Software (Cursando)
+### 🎓 Academic Background:
+#### 💻  Technician in Informatics (Completed)
+#### 💻  Bachelor's Degree in Software Engineering (Ongoing)
 
-### ⚡ Principais Habilidades e Conhecimentos:
+### ⚡ Main Skills and Knowledge:
 [![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
@@ -39,7 +42,12 @@ Desenvolvedor BackEnd, possuo experiência em projetos pessoais utilizando Java,
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Ferramentas
+## 🛡 Testing Techniques
+
+- ✅ Unit Testing  
+- 🔄 Integration Testing
+
+## Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -47,11 +55,11 @@ Desenvolvedor BackEnd, possuo experiência em projetos pessoais utilizando Java,
 ![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasdev&show_icons=true&theme=transparent&locale=pt-br)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josiasdev&layout=compact&theme=transparent&locale=pt-br)
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasdev&show_icons=true&theme=transparent&locale=en)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josiasdev&layout=compact&theme=transparent&locale=en)
 
-# Contato
+# Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-batista/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josiascristaodev/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:francisco.batista67@alu.ufc.br)
