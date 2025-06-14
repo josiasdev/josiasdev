@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Hello, I'm Josias Batista 👨‍💻
-Back-End Developer with experience in personal projects using Java, Python, Node.js, Express.js, and FastAPI to build Rest/RestFul APIs. Skilled in databases such as PostgreSQL, MySQL, MongoDB, and SQLite, with experience in Docker for containerization. I use Git for version control and follow best development practices to build scalable and high-performance solutions. I'm looking for challenges that allow me to learn new technologies and contribute to innovative projects.
+BackEnd Developer, I have experience in personal projects using Java (Spring Boot), and Node.js with Nest.js, TypeScript, as well as knowledge in React for front-end development. Mastery of relational and non-relational databases (PostgreSQL, MySQL, MongoDB), containerization with Docker and versioning with Git. I am currently delving into blockchain, Web3, smart contracts and DeFi, seeking to apply my knowledge in the construction of decentralized solutions.
 
 ## 🏆 Hackathon Achievements
 
