@@ -1,8 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Hello, I'm Josias Batista 👨‍💻
-BackEnd Developer, I have experience in personal projects using Java (Spring Boot), and Node.js with Nest.js, TypeScript, as well as knowledge in React for front-end development. Mastery of relational and non-relational databases (PostgreSQL, MySQL, MongoDB), containerization with Docker and versioning with Git. I am currently delving into blockchain, Web3, smart contracts and DeFi, seeking to apply my knowledge in the construction of decentralized solutions.
-
+I'm a Full-Stack Developer with experience building comprehensive web applications. On the backend, I'm proficient in Java (Spring Boot) and Node.js (Nest.js, TypeScript) to create efficient and scalable APIs. On the frontend, I work with React, Next.js, and TailwindCss to develop modern user interfaces.
+I have extensive experience with databases, including PostgreSQL, MySQL, and MongoDB, as well as DevOps practices with Docker and versioning with Git.
+My current focus is the Web3 ecosystem. I'm deepening my studies in Blockchain, Smart Contracts, and DeFi, actively seeking opportunities to apply my skills to developing decentralized applications.
 ## 🏆 Hackathon Achievements
 
 <p align="center">
@@ -60,7 +61,7 @@ BackEnd Developer, I have experience in personal projects using Java (Spring Boo
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasdev&show_icons=true&theme=transparent&locale=en)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josiasdev&layout=compact&theme=transparent&locale=en)
+([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasdev&show_icons=true&theme=transparent&locale=en)](https://github.com/anuraghazra/github-readme-stats))
 
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-batista/)
