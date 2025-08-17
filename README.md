@@ -19,6 +19,11 @@ BackEnd Developer, I have experience in personal projects using Java (Spring Boo
   </table>
 </p>
 
+<h2>Badges:</h2>
+
+[![AWS](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/ce7c99f6-6627-44d3-a8ed-6e30373ab8ae/public_url)
+[![AI Agents Hackathon](https://images.credly.com/size/110x100/images/648f7e43-0438-4607-a6cb-140a60d643d3/blob)](https://www.credly.com/badges/524e19d6-a3fe-4e14-99ee-08559c963abd/public_url)
+
 ## 🗣️ Languages
 
 - 🇧🇷 Brazilian Portuguese (Native)
