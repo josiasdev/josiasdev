@@ -64,8 +64,8 @@ My current focus is the Web3 ecosystem. I'm deepening my studies in Blockchain, 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasdev&show_icons=true&theme=transparent&locale=en)
-([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasdev&show_icons=true&theme=transparent&locale=en)](https://github.com/anuraghazra/github-readme-stats))
+![josiasdev's Stats](https://github-readme-stats.vercel.app/api?username=josiasdev&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+![josiasdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasdev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-batista/)
