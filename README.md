@@ -1,38 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
 # Hello, I'm Josias Batista 👨‍💻
-I'm a Full-Stack Developer with experience building comprehensive web applications. On the backend, I'm proficient in Java (Spring Boot) and Node.js (Nest.js, TypeScript) to create efficient and scalable APIs. On the frontend, I work with React, Next.js, and TailwindCss to develop modern user interfaces.
-I have extensive experience with databases, including PostgreSQL, MySQL, and MongoDB, as well as DevOps practices with Docker and versioning with Git.
-My current focus is the Web3 ecosystem. I'm deepening my studies in Blockchain, Smart Contracts, and DeFi, actively seeking opportunities to apply my skills to developing decentralized applications.
-## 🏆 Hackathon Achievements
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/heatherfinance/xrp/blob/6b815984be8a8f8643a37183af01e8483239ff6c/Logo/Logo.svg" alt="Heather AI logo" width="250"/>
-        <br/>
-        <b>3rd Place - XRPL Hackathon 2024</b>
-        <br/>
-        <a href="https://github.com/heatherfinance/xrp">View Project</a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<h2>Badges:</h2>
-
-[![AWS](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/ce7c99f6-6627-44d3-a8ed-6e30373ab8ae/public_url)
-[![AI Agents Hackathon](https://images.credly.com/size/110x100/images/648f7e43-0438-4607-a6cb-140a60d643d3/blob)](https://www.credly.com/badges/524e19d6-a3fe-4e14-99ee-08559c963abd/public_url)
-
-## 🗣️ Languages
-
-- 🇧🇷 Brazilian Portuguese (Native)
-- 🇺🇸 English (B1 Intermediate)
-
-### 🎓 Academic Background:
-#### 💻  Technician in Informatics (Completed)
-#### 💻  Bachelor's Degree in Software Engineering (Ongoing)
 
 ### ⚡ Main Skills and Knowledge:
 [![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
@@ -49,11 +17,6 @@ My current focus is the Web3 ecosystem. I'm deepening my studies in Blockchain, 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 🛡 Testing Techniques
-
-- ✅ Unit Testing  
-- 🔄 Integration Testing
 
 ## Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
