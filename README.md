@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
-# Hello, I'm Josias Batista, a Full Stack Developer
+# 👋 Hi there! I'm Josias Batista, a Full Stack Developer
 
 ### ⚡ Main Skills and Knowledge:
 [![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
