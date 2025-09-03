@@ -1,26 +1,23 @@
 ![](https://komarev.com/ghpvc/?username=josiasdev&color=006bed)
 
-# 👋 Hi there! I'm Josias Batista, a Java Developer
+# Josias Batista
+Desenvolvedor BackEnd
 
-### ⚡ Main Skills and Knowledge:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+Minha trajetória na tecnologia começou em 2019 com uma base sólida em Html, CSS, JavaScript, Java, PHP e MySQL no curso técnico em informática. Em 2022, ingressei na graduação em Engenharia de Software, onde expandi meu repertório para o ecossistema moderno com C, C++, React, Express.js, Node.js, Python, FastApi e PostgreSQL.
+<br>Paralelamente à minha formação e atuação profissional, busco ativamente testar minhas habilidades em ambientes competitivos. Participei de diversos hackathons, incluindo o Expolog Hack 2024, XRP Hackathon 2024, SUI Hackathon 2025 e o hackathon O GRANDE CÓDIGO (NEARX e zkVerify), onde pude explorar novas tecnologias e desenvolver soluções inovadoras.
 
-## Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-## GitHub Stats
-![josiasdev's Stats](https://github-readme-stats.vercel.app/api?username=josiasdev&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
-![josiasdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasdev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-# Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-batista/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josiascristaodev/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:francisco.batista67@alu.ufc.br)
+
+### Projetos relevantes
+[**Sys Água**](https://github.com/CristianoMends/sys-agua) — Participei do desenvolvimento de um sistema desktop para controle de estoque e vendas, criando interfaces gráficas
+intuitivas e funcionais, onde atuei como desenvolvedor front-end utilizando Java, JavaFx, FXML, PostgreSQL e Docker.
+
+[**Convit3-digital**](https://github.com/josiasdev/convit3-digital) — é uma plataforma intuitiva para criar e gerenciar eventos digitais. Com ela, você pode acompanhar as confirmações de presença dos participantes, visualizar quem confirmou ou recusou os convites e organizar todos os detalhes do evento em um único lugar, onde atuei como desenvolvedor fulls-tack utilizando React.js, Next.js, Tailwindcss, JavaScript, TypeScript, Node.js, Nest.js, prisma orm e sqlite.
+
+[**InvestTrackAPI**](https://github.com/josiasdev/InvestTrackAPI) - API RESTful para agregação e gerenciamento de portfólios de investimentos, onde atuei como desenvolvedor back-end utilizando .NET8, C#, SQL Server e Docker.
+
+[**CandidatosAPI**](https://github.com/josiasdev/CandidatosAPI) - API REST desenvolvida para fornecer acesso a dados relacionados a candidaturas, eleições, partidos, e análises visuais dessas informações, onde atuei como desenvolvedor back-end utilizando Python, FastAPI e MongoDB.
+
+[**To-Do List API**](https://github.com/josiasdev/todo-list) - API RESTful completa para gerenciamento de tarefas de usuários, com operações de CRUD (Create, Read, Update, Delete), onde atuei como desenvolvedor back-end utilizando Java, Spring Boot e MySQL.
