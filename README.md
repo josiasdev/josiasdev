@@ -4,7 +4,7 @@
   <p>
     <i>Web3 FullStack Developer | BackEnd Developer</i>
     <br/>
-    <i>Solidity | Rust | Move | Java | Spring Boot | C# | .NET | JavaScript | TypeScript | React.js | Next.js</i>
+    <i>Solidity | Rust | Java | Spring Boot | C# | .NET | JavaScript | TypeScript | React.js | Next.js</i>
   </p>
 </div>
 
