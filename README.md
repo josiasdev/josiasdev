@@ -19,7 +19,7 @@ Desenvolvedor full-stack focado na construção de soluções Back-End e Web3 ro
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://josias-batista-portfolio.vercel.app" target="_blank" >
-     <img src="https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&logoColor=white" />
+     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:francisco.batista67@alu.ufc.br">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
@@ -40,6 +40,7 @@ Desenvolvedor full-stack focado na construção de soluções Back-End e Web3 ro
     <td>
       <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat-square&logo=solidity&logoColor=black" alt="Solidity"/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+      <img src="https://img.shields.io/badge/Move-0077B5?style=flat-square&logoColor=white" alt="Move" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
