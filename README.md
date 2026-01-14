@@ -65,6 +65,7 @@ Desenvolvedor full-stack focado na construção de soluções Back-End e Web3 ro
   <tr>
     <td align="center"><strong>Databases</strong></td>
     <td align="center"><strong>DevOps & Tools</strong></td>
+    <td align="center"><strong>IDEs</strong></td>
   </tr>
   <tr>
     <td>
@@ -79,15 +80,11 @@ Desenvolvedor full-stack focado na construção de soluções Back-End e Web3 ro
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
       <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white" alt="Git"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>IDEs</strong></td>
-  </tr>
-  <tr>
-    <td>
+     <td>
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="Intellij-idea" />
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="android-studio"/>
     </td>
+  </tr>
   </tr>
 </table>
