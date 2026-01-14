@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=josiasdev&label=Profile+views&color=006bed&style=flat" alt="Profile views"/>
   <h1>Josias Batista</h1>
   <p>
-    <i>FullStack Developer | Blockchain Engineer | Web3 Developer</i>
+    <i>Engenheiro de Software Full Stack</i>
     <br/>
-    <i>Node.js | React.js | Next.js | JavaScript | Express.js | Nest.js | MySQL | Docker | Kubernetes | TypeScript | AWS | Rust | Solidity | Move </i>
+    <i>React.js | Node.js | AWS Cloud | Java | Spring Boot | C# | .NET</i>
   </p>
 </div>
 
