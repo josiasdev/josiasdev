@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=josiasdev&label=Profile+views&color=006bed&style=flat" alt="Profile views"/>
   <h1>Josias Batista</h1>
   <p>
-    <i>Engenheiro de Software Full Stack</i>
+    <i>Engenheiro de Software Full Stack | Blockchain Engineer | Embaixador Stellar</i>
     <br/>
-    <i>React.js | Node.js | AWS Cloud | Java | Spring Boot | C# | .NET</i>
+    <i>React.js | Node.js | AWS | Java | Spring Boot | Stellar | Rust</i>
   </p>
 </div>
 
@@ -40,7 +40,6 @@ Desenvolvedor full-stack focado na construção de soluções Back-End e Web3 ro
     <td>
       <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat-square&logo=solidity&logoColor=black" alt="Solidity"/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
-      <img src="https://img.shields.io/badge/Move-0077B5?style=flat-square&logoColor=white" alt="Move" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
