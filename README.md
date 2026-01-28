@@ -20,34 +20,47 @@
 
 ---
 
-### Tech Stack
-
 <table>
   <tr>
-    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Linguagem</strong></td>
+    <td align="center"><strong>Frameworks & APIs</strong></td>
+    <td align="center"><strong>Persistência de Dados</strong></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java_8+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+      <br>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" alt="Spring Security"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td align="center"><strong>DevOps & Tools</strong></td>
-  </tr>
-  <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white" alt="Git"/>
+      <br>
+      <img src="https://img.shields.io/badge/SQL_(DML/DDL)-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
     </td>
   </tr>
+  <tr>
+    <td align="center"><strong>DevOps & Build</strong></td>
+    <td align="center"><strong>Versionamento & Ágil</strong></td>
+    <td align="center"><strong>Qualidade & Testes</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven"/>
+      <br>
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Gitflow-F05032?style=flat-square&logo=git&logoColor=white" alt="Gitflow"/>
+      <br>
+      <img src="https://img.shields.io/badge/Agile/Scrum-00897B?style=flat-square&logo=scrumalliance&logoColor=white" alt="Agile"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JUnit/Mockito-C2185B?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"/>
+      <br>
+      <img src="https://img.shields.io/badge/CI/CD-FFB300?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
+    </td>
   </tr>
 </table>
