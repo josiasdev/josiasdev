@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=josiasdev&label=Profile+views&color=006bed&style=flat" alt="Profile views"/>
   <h1>Josias Batista</h1>
   <p>
-    <i>Desenvolvedor Back-end Java | Backend Software Engineer | Desenvolvedor Java Júnior | Desenvolvedor Full Stack</i>
+    <i>Desenvolvedor Back-end Java | Backend Software Engineer | Desenvolvedor Java Pleno | Desenvolvedor Full Stack</i>
   </p>
 </div>
 
@@ -16,10 +16,10 @@
   </a>
 </p>
 
-### 🚀 Sobre Mim
+### Sobre Mim
 Desenvolvedor de Software apaixonado por resolver problemas complexos através do código. Atualmente focado no ecossistema **Java/Spring Boot**.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Categoria | Tecnologias |
 | :--- | :--- |
