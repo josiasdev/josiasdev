@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=josiasdev&label=Profile+views&color=006bed&style=flat" alt="Profile views"/>
   <h1>Josias Batista</h1>
   <p>
-    <i>Desenvolvedor Back-end Java | Backend Software Engineer | Desenvolvedor Java Pleno | Desenvolvedor Full Stack</i>
+    <i>Desenvolvedor Back-end Java | Backend Software Engineer | Desenvolvedor Java Júnior | Desenvolvedor Full Stack</i>
   </p>
 </div>
 
@@ -17,8 +17,12 @@
 </p>
 
 ### Sobre Mim
-Desenvolvedor de Software apaixonado por resolver problemas complexos através do código. Atualmente focado no ecossistema **Java/Spring Boot**.
+Desenvolvedor de Software focado no ecossistema Java e Spring Boot, com experiência prática no desenvolvimento de soluções para o setor Fintech. Sólidos conhecimentos em APIs RESTful, persistência de dados com PostgreSQL/MySQL e testes(Junit e Mockito). Familiaridade com arquitetura de microsserviços, Docker e ambientes ágeis (Scrum/Kanban). 
 
+Possuo Inglês Intermediário.
+Francisco Josias da Silva Batista
+Telefone: (85) 98231-7976
+E-mail: josiasmartins098@gmail.com
 ### Tech Stack
 
 | Categoria | Tecnologias |
