@@ -19,9 +19,9 @@
 ### Sobre Mim
 Desenvolvedor de Software focado no ecossistema Java e Spring Boot, com experiência prática no desenvolvimento de soluções para o setor Fintech. Sólidos conhecimentos em APIs RESTful, persistência de dados com PostgreSQL/MySQL e testes(Junit e Mockito). Familiaridade com arquitetura de microsserviços, Docker e ambientes ágeis (Scrum/Kanban). 
 
-Possuo Inglês Intermediário.
-Francisco Josias da Silva Batista
-Telefone: (85) 98231-7976
+Possuo Inglês Intermediário. <br>
+Francisco Josias da Silva Batista <br>
+Telefone: (85) 98231-7976 <br>
 E-mail: josiasmartins098@gmail.com
 ### Tech Stack
 
