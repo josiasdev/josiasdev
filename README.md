@@ -17,18 +17,25 @@
 </p>
 
 ### Sobre Mim
-Desenvolvedor de Software focado no ecossistema Java e Spring Boot, com experiência prática no desenvolvimento de soluções para o setor Fintech. Sólidos conhecimentos em APIs RESTful, persistência de dados com PostgreSQL/MySQL e testes(Junit e Mockito). Familiaridade com arquitetura de microsserviços, Docker e ambientes ágeis (Scrum/Kanban). 
+Sou Desenvolvedor de Software com foco especializado no ecossistema Java, com sólida base teórica em Engenharia de Software pela UFC. Minha trajetória é marcada pela construção de sistemas robustos para os setores de Fintech e Web3, onde a precisão, a segurança e a escalabilidade são requisitos inegociáveis.
+
+Minha expertise técnica concentra-se em: <br>
+Java: Domínio de Streams API, Optional e novas funcionalidades para escrita de código limpo e performático. <br>
+Spring Framework: Especialista em Spring Boot, Spring Data JPA e Spring Security (JWT) para criação de ecossistemas de APIs RESTful. <br>
+Arquitetura e Qualidade: Aplicação prática de princípios SOLID, Clean Code e Design Patterns. Experiência em transição de monolitos para Microsserviços. <br>
+Mensageria e Persistência: Implementação de processamento assíncrono com RabbitMQ e modelagem de dados avançada em PostgreSQL e MySQL. <br>
+Testes Automatizados: Garantia de cobertura e regras de negócio através de JUnit e Mockito. <br>
+
+Impacto e Resultados Técnicos: <br>
+Fintech: Desenvolvi APIs críticas para transações financeiras em tempo real, priorizando a integridade dos dados e a segurança das transações. <br>
+Otimização: Refatorei lógicas de negócio complexas em sistemas ERP, resultando em consultas mais rápidas e código mais fácil de manter. <br>
+Infraestrutura: Experiência em containerização com Docker, garantindo a paridade entre ambientes de desenvolvimento e produção (CI/CD). <br>
+
+Tecnologias: Java, Spring Boot, Hibernate, JPA, Docker, RabbitMQ, PostgreSQL, JUnit, Mockito e Git Flow. <br>
+
+Atualmente, busco desafios onde eu possa aplicar engenharia de software de alto nível para resolver problemas complexos de backend.
 
 Possuo Inglês Intermediário. <br>
 Francisco Josias da Silva Batista <br>
 Telefone: (85) 98231-7976 <br>
 E-mail: josiasmartins098@gmail.com
-### Tech Stack
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagem** | Java, SQL |
-| **Framework** | Spring Boot |
-| **Infra & Ops** | Docker, Kubernetes, RabbitMQ, Gitflow, GitHub Actions (CI/CD) |
-| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB |
-| **Qualidade** | JUnit 5, Mockito, Clean Code, SOLID |
