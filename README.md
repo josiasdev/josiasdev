@@ -1,41 +1,46 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=josiasdev&label=Profile+views&color=006bed&style=flat" alt="Profile views"/>
-  <h1>Josias Batista</h1>
-  <p>
-    <i>Desenvolvedor Back-end Java Pleno | Backend Software Engineer | Desenvolvedor Java | Desenvolvedor Full Stack</i>
-  </p>
-</div>
+# Olá, eu sou o Josias Batista! 👋
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/josias-batista/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:josiasmartins098@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=josiasdev&label=Acessos&color=006bed&style=flat-square" alt="Profile views"/>
 </p>
 
-### Sobre Mim
-Sou Desenvolvedor de Software com foco especializado no ecossistema Java, com sólida base teórica em Engenharia de Software pela UFC. Minha trajetória é marcada pela construção de sistemas robustos para os setores de Fintech e Web3, onde a precisão, a segurança e a escalabilidade são requisitos inegociáveis.
+Sou **Graduando em Engenharia de Software (UFC)** e **Software Engineer**. Minha expertise está no desenvolvimento de sistemas de alta criticidade, com foco em **Backend Java** e soluções inovadoras em **Web3/Blockchain**. Tenho experiência em arquiteturas orientadas a eventos e fintechs.
 
-Minha expertise técnica concentra-se em: <br>
-Java: Domínio de Streams API, Optional e novas funcionalidades para escrita de código limpo e performático. <br>
-Spring Framework: Especialista em Spring Boot, Spring Data JPA e Spring Security (JWT) para criação de ecossistemas de APIs RESTful. <br>
-Arquitetura e Qualidade: Aplicação prática de princípios SOLID, Clean Code e Design Patterns. Experiência em transição de monolitos para Microsserviços. <br>
-Mensageria e Persistência: Implementação de processamento assíncrono com RabbitMQ e modelagem de dados avançada em PostgreSQL e MySQL. <br>
-Testes Automatizados: Garantia de cobertura e regras de negócio através de JUnit e Mockito. <br>
+### 🛠️ Core Stack:
 
-Impacto e Resultados Técnicos: <br>
-Fintech: Desenvolvi APIs críticas para transações financeiras em tempo real, priorizando a integridade dos dados e a segurança das transações. <br>
-Otimização: Refatorei lógicas de negócio complexas em sistemas ERP, resultando em consultas mais rápidas e código mais fácil de manter. <br>
-Infraestrutura: Experiência em containerização com Docker, garantindo a paridade entre ambientes de desenvolvimento e produção (CI/CD). <br>
+- **Back-end:** Java (Spring Boot), Rust (Soroban/Stellar).
+- **Web3 & Blockchain:** Smart Contracts (Rust), Stellar Network, SUI e XRP Ledger.
+- **Infra & Data:** Docker, RabbitMQ, MongoDB e PostgreSQL.
+- **Arquitetura:** Microservices, S.O.L.I.D e Clean Architecture.
 
-Tecnologias: Java, Spring Boot, Hibernate, JPA, Docker, RabbitMQ, PostgreSQL, JUnit, Mockito e Git Flow. <br>
+---
 
-Atualmente, busco desafios onde eu possa aplicar engenharia de software de alto nível para resolver problemas complexos de backend.
+### 🚀 Projetos em Destaque
 
-Possuo Inglês Intermediário. <br>
-Francisco Josias da Silva Batista <br>
-Telefone: (85) 98231-7976 <br>
-E-mail: josiasmartins098@gmail.com
+| Projeto | Descrição | Stack Principal |
+| :--- | :--- | :--- |
+| **[Desafio BTG Pactual](https://github.com/josiasdev/orderms)** | Microsserviço de pedidos com processamento assíncrono e mensageria. | Java, RabbitMQ, MongoDB |
+| **[Contrato Bíblia (Web3)](https://github.com/josiasdev/contrato_biblia)** | Smart Contract para prova de leitura e social dApp com recompensas (TAL Token). | Rust, Soroban, Stellar |
+| **[Sys Água (ERP)](https://github.com/CristianoMends/sys-agua)** | Sistema de gestão com regras complexas de fluxo de caixa e filtros avançados. | Java, Spring, PostgreSQL |
+
+---
+
+### 📊 Tecnologias e Ecossistemas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+---
+
+### 📫 Vamos construir o futuro?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-batista/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiasmartins098@gmail.com)
+
+> "Transformando problemas complexos de backend e descentralização em código limpo e escalável."
