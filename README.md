@@ -1,4 +1,4 @@
-# Olá, eu sou o Josias Batista! 👋
+# Olá, eu sou o Josias Batista!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josiasdev&label=Acessos&color=006bed&style=flat-square" alt="Profile views"/>
@@ -6,7 +6,7 @@
 
 Sou **Graduando em Engenharia de Software (UFC)** e **Software Engineer**. Minha expertise está no desenvolvimento de sistemas de alta criticidade, com foco em **Backend Java** e soluções inovadoras em **Web3/Blockchain**. Tenho experiência em arquiteturas orientadas a eventos e fintechs.
 
-### 🛠️ Core Stack:
+### Core Stack:
 
 - **Back-end:** Java (Spring Boot), Rust (Soroban/Stellar).
 - **Web3 & Blockchain:** Smart Contracts (Rust), Stellar Network, SUI e XRP Ledger.
@@ -15,7 +15,7 @@ Sou **Graduando em Engenharia de Software (UFC)** e **Software Engineer**. Minha
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ Sou **Graduando em Engenharia de Software (UFC)** e **Software Engineer**. Minha
 
 ---
 
-### 📊 Tecnologias e Ecossistemas
+### Tecnologias e Ecossistemas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -38,7 +38,7 @@ Sou **Graduando em Engenharia de Software (UFC)** e **Software Engineer**. Minha
 
 ---
 
-### 📫 Vamos construir o futuro?
+### Vamos construir o futuro?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-batista/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiasmartins098@gmail.com)
