@@ -8,11 +8,11 @@ Sou **Graduando em Engenharia de Software (UFC)** e **Software Engineer**. Minha
 
 ### 💻 Core Stack & Skills
 
-- **Back-end:** Java (Spring Boot), Rust.
-- **Web3 & Blockchain:** Smart Contracts (Rust/Soroban), Stellar Network, SUI e XRP Ledger.
-- **Infra & Data:** Docker, RabbitMQ, PostgreSQL, MongoDB, Supabase.
+- **Back-end:** Java (Spring Boot), Rust, Solidity
+- **Web3 & Blockchain:** Smart Contracts (Rust/Soroban & Solidity/EVM), Stellar Network, Ethereum, SUI e XRP Ledger.
+- **Infra & Data:** Docker, RabbitMQ, PostgreSQL, MongoDB, Hardhat, Supabase.
 - **Front-end:** React, TypeScript, Tailwind CSS.
-- **Arquitetura & Qualidade:** Microservices, S.O.L.I.D, Clean Architecture, Testes Unitários (JUnit 5), Web Scraping/Automação (Selenium).
+- **Arquitetura & Qualidade:** Microservices, S.O.L.I.D, Clean Architecture, Testes Unitários (JUnit 5, Chai/Mocka), Web Scraping/Automação (Selenium).
 
 ---
 
@@ -20,12 +20,12 @@ Sou **Graduando em Engenharia de Software (UFC)** e **Software Engineer**. Minha
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
+| **[Bible Web3 EVM](https://github.com/josiasdev/bible-web3-evm)** | Ecossistema DeFi e DAO completo com Token ERC20, Staking, Governança e NFTs com Oráculos. | `Solidity`, `Hardhat`, `Chainlink` |
+| **[Contrato Bíblia (Web3)](https://github.com/josiasdev/contrato_biblia)** | Smart Contract em Rust para prova de leitura e social dApp com recompensas (TAL Token). | `Rust`, `Soroban`, `Stellar` |
 | **[Relatório de Aniversariantes](https://github.com/josiasdev/RelatorioAniversariantes)** | Automação e Web Scraping que extrai dados de ERP e gera relatórios em PDF consolidados. | `Java`, `Spring`, `Selenium`, `OpenPDF` |
 | **[DEMADEQ - Gestão Missionária](https://github.com/josiasdev/igreja-relato-unido)** | Plataforma Fullstack de gestão de relatórios congregacionais com dashboard dinâmico. | `React`, `TypeScript`, `Supabase`, `Tailwind` |
-| **[Url Shortener](https://github.com/josiasdev/url-shortener)** | API de encurtamento de URLs escalável com suporte a tempo de expiração. | `Java`, `Spring`, `MongoDB`, `Docker` |
 | **[Desafio BTG Pactual](https://github.com/josiasdev/orderms)** | Microsserviço de pedidos com processamento assíncrono e mensageria estruturada. | `Java`, `RabbitMQ`, `MongoDB` |
-| **[Contrato Bíblia (Web3)](https://github.com/josiasdev/contrato_biblia)** | Smart Contract em Rust para prova de leitura e social dApp com recompensas (TAL Token). | `Rust`, `Soroban`, `Stellar` |
-| **[TODO List API](https://github.com/josiasdev/todo-list)** | API RESTful otimizada para gerenciamento de tarefas, seguindo princípios DRY e SOLID. | `Java`, `Spring`, `MySQL`, `Swagger` |
+| **[Url Shortener](https://github.com/josiasdev/url-shortener)** | API de encurtamento de URLs escalável com suporte a tempo de expiração. | `Java`, `Spring`, `MongoDB`, `Docker` |
 
 > 💡 *Dica:* Veja também meus [Exemplos práticos de Testes Unitários com JUnit 5](https://github.com/josiasdev/junit5-exemplos).
 
