@@ -28,6 +28,12 @@ Busco sempre construir soluções eficientes, desde o design da API até a impla
 > 💡 *Dica:* Veja também meus [Exemplos práticos de Testes Unitários com JUnit 5](https://github.com/josiasdev/junit5-exemplos) e sinta-se à vontade para explorar meus repositórios.
 
 ---
-📫 **Como me encontrar:** Fique à vontade para abrir uma *issue* em meus repositórios ou entrar em contato para colaborações em engenharia backend e Web3!
+📫 **Como me encontrar:** 
 
-[Read in English](README.md) <!-- Ajuste o link dependendo de qual for o arquivo principal -->
+Fique à vontade para entrar em contato para colaborações em engenharia backend e Web3!
+
+*   🌐 **Portfólio:** [josias-batista-portfolio.vercel.app](https://josias-batista-portfolio.vercel.app)
+*   💼 **LinkedIn:** [https://www.linkedin.com/in/josias-batista/](https://www.linkedin.com/in/josias-batista/)
+*   💻 **GitHub:** [https://github.com/josiasdev](https://github.com/josiasdev)
+
+[Read in English](README.md)
