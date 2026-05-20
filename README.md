@@ -28,6 +28,12 @@ I am passionate about building highly efficient solutions, from robust API desig
 > 💡 *Tip:* Check out my [Practical Unit Testing Examples with JUnit 5](https://github.com/josiasdev/junit5-exemplos) and feel free to explore my repositories.
 
 ---
-📫 **Get in touch:** Feel free to open an issue on my repositories or reach out for collaborations in backend engineering and Web3!
+📫 **Get in touch:** 
 
-[Leia em Português](README.pt-BR.md) 
+Feel free to reach out for collaborations in backend engineering and Web3!
+
+*   🌐 **Portfolio:** [josias-batista-portfolio.vercel.app](https://josias-batista-portfolio.vercel.app)
+*   💼 **LinkedIn:** [https://www.linkedin.com/in/josias-batista/](https://www.linkedin.com/in/josias-batista/)
+*   💻 **GitHub:** [https://github.com/josiasdev](https://github.com/josiasdev)
+
+[Leia em Português](README.pt-BR.md)
