@@ -1,62 +1,33 @@
-# Olá, eu sou o Josias Batista! 👋
+# Hi, I'm Josias! 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=josiasdev&label=Acessos&color=006bed&style=flat-square" alt="Profile views"/>
-</p>
+**Backend Software Engineer**
 
-Sou **Graduando em Engenharia de Software (UFC)** e **Software Engineer**. Minha expertise está no desenvolvimento de sistemas de alta criticidade e automação, com foco em **Backend Java** e soluções inovadoras em **Web3/Blockchain**. Tenho experiência na construção de arquiteturas orientadas a eventos, APIs RESTful, automação de processos (RPA) e desenvolvimento Fullstack.
+I'm a backend software engineer dedicated to building scalable systems, secure integrations, and innovative solutions, based in Quixadá, Ceará, Brazil. My primary focus is on architecting microservices within the **Java ecosystem (Spring Boot)** and developing decentralized applications (dApps) exploring **Blockchain technologies (Stellar, Soroban, and EVM)**.
 
-### 💻 Core Stack & Skills
+I am passionate about building highly efficient solutions, from robust API design to infrastructure deployment and optimization.
 
-- **Back-end:** Java (Spring Boot), Rust, Solidity
-- **Web3 & Blockchain:** Smart Contracts (Rust/Soroban & Solidity/EVM), Stellar Network, Ethereum, SUI e XRP Ledger.
-- **Infra & Data:** Docker, RabbitMQ, PostgreSQL, MongoDB, Hardhat, Supabase.
-- **Front-end:** React, TypeScript, Tailwind CSS.
-- **Arquitetura & Qualidade:** Microservices, S.O.L.I.D, Clean Architecture, Testes Unitários (JUnit 5, Chai/Mocka), Web Scraping/Automação (Selenium).
+## 🛠️ Tech Stack & Tools
 
----
+- **Backend & Architecture:** Java (17/21), Spring Boot, Spring Security, Microservices, RabbitMQ.
+- **Blockchain & Web3:** Rust, Soroban (Stellar), Solidity, Hardhat, Chainlink.
+- **Frontend (Full-stack):** TypeScript, React, Next.js, Node.js, Tailwind.
+- **Infra & Databases:** Docker, MongoDB, SQL, Linux, n8n.
 
-### 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-| Projeto | Descrição | Stack Principal |
+| Project | Description | Main Stack |
 | :--- | :--- | :--- |
-| **[Bible Web3 EVM](https://github.com/josiasdev/bible-web3-evm)** | Ecossistema DeFi e DAO completo com Token ERC20, Staking, Governança e NFTs com Oráculos. | `Solidity`, `Hardhat`, `Chainlink` |
-| **[Contrato Bíblia (Web3)](https://github.com/josiasdev/contrato_biblia)** | Smart Contract em Rust para prova de leitura e social dApp com recompensas (TAL Token). | `Rust`, `Soroban`, `Stellar` |
-| **[Relatório de Aniversariantes](https://github.com/josiasdev/RelatorioAniversariantes)** | Automação e Web Scraping que extrai dados de ERP e gera relatórios em PDF consolidados. | `Java`, `Spring`, `Selenium`, `OpenPDF` |
-| **[DEMADEQ - Gestão Missionária](https://github.com/josiasdev/igreja-relato-unido)** | Plataforma Fullstack de gestão de relatórios congregacionais com dashboard dinâmico. | `React`, `TypeScript`, `Supabase`, `Tailwind` |
-| **[Desafio BTG Pactual](https://github.com/josiasdev/orderms)** | Microsserviço de pedidos com processamento assíncrono e mensageria estruturada. | `Java`, `RabbitMQ`, `MongoDB` |
-| **[Url Shortener](https://github.com/josiasdev/url-shortener)** | API de encurtamento de URLs escalável com suporte a tempo de expiração. | `Java`, `Spring`, `MongoDB`, `Docker` |
+| **[SyloPay](https://github.com/Sylopay/sylopay)** | Decentralized *Buy Now, Pay Later* solution built on Stellar with Soroban Smart Contracts and PIX on-ramp. | `Rust`, `Soroban`, `TypeScript` |
+| **[Bible Web3 EVM](https://github.com/josiasdev/bible-web3-evm)** | Complete DeFi and DAO ecosystem with ERC20 Token, Staking, Governance, and NFTs with Oracles. | `Solidity`, `Hardhat`, `Chainlink` |
+| **[Bible Contract (Web3)](https://github.com/josiasdev/contrato_biblia)** | Rust Smart Contract for proof-of-reading and social dApp with tokenized rewards (TAL Token). | `Rust`, `Soroban`, `Stellar` |
+| **[BTG Pactual Challenge](https://github.com/josiasdev/orderms)** | Order processing microservice with asynchronous event-driven architecture and structured messaging. | `Java`, `RabbitMQ`, `MongoDB` |
+| **[Url Shortener](https://github.com/josiasdev/url-shortener)** | Scalable URL shortening API with expiration time support and containerization. | `Java`, `Spring`, `MongoDB`, `Docker` |
+| **[Birthday Reports Auto](https://github.com/josiasdev/RelatorioAniversariantes)** | Automation and Web Scraping tool that extracts ERP data and generates consolidated PDF reports. | `Java`, `Spring`, `Selenium`, `OpenPDF` |
+| **[DEMADEQ - Missionary Mgmt](https://github.com/josiasdev/igreja-relato-unido)** | Fullstack platform for congregational reporting management with a dynamic dashboard. | `React`, `TypeScript`, `Supabase` |
 
-> 💡 *Dica:* Veja também meus [Exemplos práticos de Testes Unitários com JUnit 5](https://github.com/josiasdev/junit5-exemplos).
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" />
-</div>
+> 💡 *Tip:* Check out my [Practical Unit Testing Examples with JUnit 5](https://github.com/josiasdev/junit5-exemplos) and feel free to explore my repositories.
 
 ---
+📫 **Get in touch:** Feel free to open an issue on my repositories or reach out for collaborations in backend engineering and Web3!
 
-### 🤝 Vamos construir o futuro?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josias-batista/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josias-batista-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiasmartins098@gmail.com)
-
-> *"Transformando problemas complexos de backend e descentralização em código limpo e escalável."*
+[Leia em Português](README.pt-BR.md) 
