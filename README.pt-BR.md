@@ -1,40 +1,56 @@
-# Olá, eu sou o Josias!
+# Olá! Eu sou o Francisco Josias Batista 👋
 
-**Backend Software Engineer**
+[Read in English](README.md)
 
-Sou um engenheiro de software com foco na construção de sistemas escaláveis, integrações seguras e soluções inovadoras, residindo em Quixadá, CE. Atualmente, concentro meus esforços na arquitetura de microsserviços com o ecossistema **Java (Spring Boot)** e no desenvolvimento de aplicações descentralizadas (dApps) explorando **Blockchain (Stellar, Soroban e EVM)**. 
+**Desenvolvedor Blockchain & Engenheiro de Protocolos | Especialista em Backend Java & Spring Boot**
 
-Busco sempre construir soluções eficientes, desde o design da API até a implantação e otimização de infraestrutura.
+Sou estudante de Engenharia de Software na **Universidade Federal do Ceará (UFC Quixadá)** e **Desenvolvedor Residente em Web 3.0 no iRede**. Atuo em Quixadá, Ceará, focado na engenharia de protocolos descentralizados, Smart Contracts de alta segurança e microsserviços backend escaláveis.
 
-## Tecnologias e Ferramentas
+Minha especialização técnica inclui **Solidity (EVM)**, **Rust & Soroban (Rede Stellar)**, **Provas de Conhecimento Zero (Noir ZK)**, **Foundry**, **Primitivas DeFi** e arquiteturas em **Java 17/21 (Spring Boot)**.
 
-- **Backend & Arquitetura:** Java (17/21), Spring Boot, Spring Security, Microsserviços, RabbitMQ.
-- **Blockchain & Web3:** Rust, Soroban (Stellar), Solidity, Hardhat, Chainlink.
-- **Frontend (Full-stack):** TypeScript, React, Next.js, Node.js, Tailwind.
-- **Infraestrutura & Dados:** Docker, MongoDB, SQL, Linux, n8n.
+---
 
-## Projetos em Destaque
+### 🌐 Informações e Links Úteis
+
+- 🌐 **Portfólio Web:** [josias-batista-portfolio.vercel.app](https://josias-batista-portfolio.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/josias-batista](https://www.linkedin.com/in/josias-batista/)
+- 📁 **Repositórios no GitHub:** [github.com/josiasdev](https://github.com/josiasdev)
+- ✉️ **E-mail:** [josiasmartins098@gmail.com](mailto:josiasmartins098@gmail.com)
+- 📱 **Telefone:** +55 (85) 98231-7976
+- 📍 **Localização:** Quixadá, Ceará, Brasil
+
+---
+
+### 🛠️ Tecnologias & Ecossistema
+
+- **Web3 & Blockchain:** Solidity (EVM), Rust, Soroban (Stellar), Noir (Provas ZK), Foundry, Hardhat, Credenciais Verificáveis W3C, Primitivas DeFi.
+- **Backend & Engenharia:** Java 17/21, Spring Boot, Spring Security, Microsserviços, Node.js, NestJS, TypeScript, Python (RAG / Agentes de IA), RabbitMQ, APIs REST.
+- **Bancos de Dados & DevOps:** PostgreSQL, MySQL, MongoDB, Docker, Git, GitHub Actions, Linux (LPI), Vercel.
+- **Metodologias & Arquitetura:** Scrum, Kanban, Clean Architecture, Domain-Driven Design (DDD), Qualidade de Software & Testes QA.
+
+---
+
+### 🏆 Hackathons Globais & Conquistas
+
+- 🥇 **PULSO Hackathon (Stellar Network 2026):** Projeto **COINCONUT** — Ledger de impacto descentralizado para logística reversa da fibra de coco com Provas ZK (Noir) e NFTs ESG Soulbound na Stellar Soroban.
+- 🥈 **UNICEF Youth Challenge Blockchain 2026 (UNICEF Brasil & Blockchain.RIO):** Projeto **EloCiv** — Plataforma descentralizada de Credenciais Verificáveis W3C na Stellar Soroban para histórico cívico jovem.
+- 🏅 **Hack Meridian 2025 (Stellar Network):** Projeto **SyloPay** — Protocolo descentralizado de BNPL (Buy Now, Pay Later) na blockchain Stellar.
+- 🥉 **HackaLedger XRPL 2024:** 3º Lugar na Trilha Web 3 com chatbot e tutor digital integrado no ecossistema XRP Ledger.
+
+---
+
+### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
-| **[COINCONUT](https://github.com/josiasdev/coinconut-hackathon)** | Ledger descentralizado para logística reversa de casca de coco com NFTs Soulbound ESG e integração via Oráculo PIX. | `Solidity`, `React`, `TypeScript` |
-| **[SyloPay](https://github.com/Sylopay/sylopay)** | Solução descentralizada de *Buy Now, Pay Later* na rede Stellar utilizando contratos inteligentes Soroban e on-ramp PIX. | `Rust`, `Soroban`, `TypeScript` |
-| **[Bible Web3 EVM](https://github.com/josiasdev/bible-web3-evm)** | Ecossistema DeFi e DAO completo com Token ERC20, Staking, Governança e NFTs com Oráculos. | `Solidity`, `Hardhat`, `Chainlink` |
-| **[Contrato Bíblia (Web3)](https://github.com/josiasdev/contrato_biblia)** | Smart Contract em Rust para prova de leitura e social dApp com recompensas (TAL Token). | `Rust`, `Soroban`, `Stellar` |
-| **[Desafio BTG Pactual](https://github.com/josiasdev/orderms)** | Microsserviço de pedidos com processamento assíncrono e mensageria estruturada. | `Java`, `RabbitMQ`, `MongoDB` |
-| **[Url Shortener](https://github.com/josiasdev/url-shortener)** | API de encurtamento de URLs escalável com suporte a tempo de expiração e conteinerização. | `Java`, `Spring`, `MongoDB`, `Docker` |
-| **[Relatório de Aniversariantes](https://github.com/josiasdev/RelatorioAniversariantes)** | Automação e Web Scraping que extrai dados de ERP e gera relatórios em PDF consolidados. | `Java`, `Spring`, `Selenium`, `OpenPDF` |
-| **[DEMADEQ - Gestão Missionária](https://github.com/josiasdev/igreja-relato-unido)** | Plataforma Fullstack de gestão de relatórios congregacionais com dashboard dinâmico. | `React`, `TypeScript`, `Supabase` |
-
-> *Dica:* Veja também meus [Exemplos práticos de Testes Unitários com JUnit 5](https://github.com/josiasdev/junit5-exemplos) e sinta-se à vontade para explorar meus repositórios.
+| **[COINCONUT](https://github.com/josiasdev/coinconut)** | Ledger de impacto descentralizado na Stellar Soroban que certifica a logística reversa do coco em NFTs ESG, provas ZK e liquidação automatizada PIX. | `Stellar`, `Soroban`, `Rust`, `Noir ZK`, `TypeScript` |
+| **[EloCiv](https://github.com/josiasdev/EloCiv)** | Plataforma Web3 descentralizada para o UNICEF Youth Challenge 2026 ancorando Credenciais Verificáveis W3C em smart contracts Soroban. | `Stellar`, `Soroban`, `Rust`, `W3C VC`, `TypeScript` |
+| **[SyloPay](https://github.com/Sylopay/sylopay)** | Solução descentralizada *Buy Now, Pay Later* (BNPL) construída na Stellar com contratos inteligentes Soroban e parcelamento sem juros. | `Rust`, `Soroban`, `NestJS`, `Docker`, `TypeScript` |
+| **[ChainMed](https://github.com/josiasdev)** | Plataforma blockchain para prescrição médica eletrônica garantindo imutabilidade e rastreabilidade com smart contracts em EVM. | `Solidity`, `EVM`, `React`, `TypeScript` |
+| **[Kyra DeFi AI Agent](https://github.com/pleasantfinance8/system-kyra-hackaton-sui-2025)** | Agente de IA para estratégias on-chain DeFi, simulando combinações eficientes de lending, staking e swaps na rede SUI. | `SUI`, `Next.js`, `TypeScript`, `DeFi AI` |
+| **[BTG Pactual OrderMS](https://github.com/josiasdev/orderms)** | Microsserviço de processamento de pedidos com arquitetura orientada a eventos e mensageria assíncrona. | `Java 17`, `Spring Boot`, `RabbitMQ`, `MongoDB` |
+| **[Relatório Aniversariantes](https://github.com/josiasdev/RelatorioAniversariantes)** | Automação e raspagem de dados de ERP com geração de relatórios em PDF e disparo automático via WhatsApp API. | `Java 17`, `Spring Boot`, `Selenium`, `OpenPDF` |
 
 ---
-**Como me encontrar:** 
 
-Fique à vontade para entrar em contato para colaborações em engenharia backend e Web3!
-
-* **Portfólio:** [josias-batista-portfolio.vercel.app](https://josias-batista-portfolio.vercel.app)
-* **LinkedIn:** [https://www.linkedin.com/in/josias-batista/](https://www.linkedin.com/in/josias-batista/)
-* **GitHub:** [https://github.com/josiasdev](https://github.com/josiasdev)
-
-[Read in English](README.md)
+> Sinta-se à vontade para explorar meus repositórios ou entrar em contato para colaborações em Web3 e Engenharia Backend!
