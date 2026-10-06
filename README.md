@@ -35,9 +35,9 @@ My primary technical focus centers on **Solidity (EVM)**, **Rust & Soroban (Stel
 
 ### Global Hackathons & Awards
 
-- **PULSO Hackathon (Stellar Network 2026):** Project **COINCONUT** — Impact ledger for reverse logistics of coconut waste built on Stellar Soroban with ZK Proofs (Noir) & ESG Soulbound NFTs.
-- **UNICEF Youth Challenge Blockchain 2026 (UNICEF Brasil & Blockchain.RIO):** Project **EloCiv** — Decentralized W3C Verifiable Credentials platform on Stellar Soroban for youth civic history.
-- **Hack Meridian 2025 (Stellar Network):** Project **SyloPay** — Decentralized BNPL (Buy Now, Pay Later) protocol on Stellar blockchain.
+- **PULSO Hackathon (Stellar Network 2026):** Project **COINCONUT**: Impact ledger for reverse logistics of coconut waste built on Stellar Soroban with ZK Proofs (Noir) & ESG Soulbound NFTs.
+- **UNICEF Youth Challenge Blockchain 2026 (UNICEF Brasil & Blockchain.RIO):** Project **EloCiv**: Decentralized W3C Verifiable Credentials platform on Stellar Soroban for youth civic history.
+- **Hack Meridian 2025 (Stellar Network):** Project **SyloPay**: Decentralized BNPL (Buy Now, Pay Later) protocol on Stellar blockchain.
 - **HackaLedger XRPL 2024:** 3rd Place Web 3 Track with AI tutor integration on XRP Ledger.
 
 ---

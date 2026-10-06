@@ -35,9 +35,9 @@ Minha especialização técnica inclui **Solidity (EVM)**, **Rust & Soroban (Red
 
 ### Hackathons Globais & Conquistas
 
-- **PULSO Hackathon (Stellar Network 2026):** Projeto **COINCONUT** — Ledger de impacto descentralizado para logística reversa da fibra de coco com Provas ZK (Noir) e NFTs ESG Soulbound na Stellar Soroban.
-- **UNICEF Youth Challenge Blockchain 2026 (UNICEF Brasil & Blockchain.RIO):** Projeto **EloCiv** — Plataforma descentralizada de Credenciais Verificáveis W3C na Stellar Soroban para histórico cívico jovem.
-- **Hack Meridian 2025 (Stellar Network):** Projeto **SyloPay** — Protocolo descentralizado de BNPL (Buy Now, Pay Later) na blockchain Stellar.
+- **PULSO Hackathon (Stellar Network 2026):** Projeto **COINCONUT**: Ledger de impacto descentralizado para logística reversa da fibra de coco com Provas ZK (Noir) e NFTs ESG Soulbound na Stellar Soroban.
+- **UNICEF Youth Challenge Blockchain 2026 (UNICEF Brasil & Blockchain.RIO):** Projeto **EloCiv**: Plataforma descentralizada de Credenciais Verificáveis W3C na Stellar Soroban para histórico cívico jovem.
+- **Hack Meridian 2025 (Stellar Network):** Projeto **SyloPay**: Protocolo descentralizado de BNPL (Buy Now, Pay Later) na blockchain Stellar.
 - **HackaLedger XRPL 2024:** 3º Lugar na Trilha Web 3 com chatbot e tutor digital integrado no ecossistema XRP Ledger.
 
 ---
