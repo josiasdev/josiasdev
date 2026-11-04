@@ -60,8 +60,8 @@ Meu objetivo é evoluir continuamente como engenheiro de software e contribuir p
 
 <div align="center">
 
-[![Estatísticas do Josias](https://github-readme-stats.vercel.app/api?username=josiasdev&show_icons=true&theme=dark&bg_color=0D1117&title_color=00bfbf&icon_color=00bfbf&hide_border=true)](https://github.com/josiasdev)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasdev&layout=compact&theme=dark&bg_color=0D1117&title_color=00bfbf&hide_border=true)](https://github.com/josiasdev)
+[![Estatísticas do Josias](https://github-stats-extended.vercel.app/api?username=josiasdev&show_icons=true&theme=dark&bg_color=0D1117&title_color=00bfbf&icon_color=00bfbf&hide_border=true)](https://github.com/josiasdev)
+[![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=josiasdev&layout=compact&theme=dark&bg_color=0D1117&title_color=00bfbf&hide_border=true)](https://github.com/josiasdev)
 
 </div>
 
@@ -81,7 +81,7 @@ Meu objetivo é evoluir continuamente como engenheiro de software e contribuir p
 </picture>
 
 <br>
-<sub>— Francisco Josias da Silva Batista</sub>
+<sub> Francisco Josias da Silva Batista </sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
