@@ -59,14 +59,16 @@ Meu objetivo é evoluir continuamente como engenheiro de software e contribuir p
 ## Estatísticas do Github
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josiasdev&show_icons=true&theme=dark&bg_color=0D1117&title_color=00bfbf&icon_color=00bfbf&hide_border=true" height="192" alt="Estatísticas do Josias" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasdev&layout=compact&theme=dark&bg_color=0D1117&title_color=00bfbf&hide_border=true" height="192" alt="Linguagens Mais Usadas" />
+
+[![Estatísticas do Josias](https://github-readme-stats.vercel.app/api?username=josiasdev&show_icons=true&theme=dark&bg_color=0D1117&title_color=00bfbf&icon_color=00bfbf&hide_border=true)](https://github.com/josiasdev)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasdev&layout=compact&theme=dark&bg_color=0D1117&title_color=00bfbf&hide_border=true)](https://github.com/josiasdev)
+
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=josiasdev&theme=dark&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00bfbf&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=josiasdev&theme=dark&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00bfbf&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true)](https://github.com/josiasdev)
+
 </div>
 
 ---
