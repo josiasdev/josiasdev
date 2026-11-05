@@ -80,6 +80,7 @@ Meu objetivo é evoluir continuamente como engenheiro de software e contribuir p
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=580&lines=%22+Construindo+o+futuro+descentralizado.+%22;%22+Bloco+por+bloco.+%22" alt="Quote" />
 </picture>
 
+
 <br>
 <sub> Francisco Josias da Silva Batista </sub>
 
