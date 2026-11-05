@@ -81,6 +81,16 @@ Meu objetivo é evoluir continuamente como engenheiro de software e contribuir p
 </picture>
 
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josiasdev/josiasdev/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/josiasdev/josiasdev/output/github-snake.svg" />
+</picture>
+
+</div>
+
+
 <br>
 <sub> Francisco Josias da Silva Batista </sub>
 
