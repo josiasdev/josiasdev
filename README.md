@@ -28,7 +28,7 @@ Meu objetivo é evoluir continuamente como engenheiro de software e contribuir p
   </a>
   <br>
   <strong>Integrante da Comunidade de Especialistas em Blockchain</strong><br>
-  <sub>Observatório Nacional de Blockchain • Emitido em Nov/2026</sub>
+  <sub>Observatório Nacional de Blockchain Emitido em Nov/2026</sub>
 </div>
 
 ---
