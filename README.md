@@ -20,6 +20,19 @@ Meu objetivo é evoluir continuamente como engenheiro de software e contribuir p
 
 ---
 
+## Credenciais & Comunidades
+
+<div align="center">
+  <a href="https://certify.one/c/npkRmN?t=53N4hrdJ5K" target="_blank">
+    <img src="./badge-onb.png" width="140" alt="Integrante da Comunidade de Especialistas em Blockchain - Observatório Nacional de Blockchain" />
+  </a>
+  <br>
+  <strong>Integrante da Comunidade de Especialistas em Blockchain</strong><br>
+  <sub>Observatório Nacional de Blockchain • Emitido em Nov/2026</sub>
+</div>
+
+---
+
 ## Conecte-se Comigo
 
 <div align="center">
